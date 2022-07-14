@@ -70,7 +70,7 @@ export default function Layout({ children }) {
                             <div class="modal-body">
                                 <div className='row' style={{ flexDirection: 'column' }}>
                                     <div className='col text-center'>
-                                        <img src="/Images/Me.jpg" width="200px" className="rounded mx-auto img-fluid" />
+                                        <img src="/Images/Edit.png" width="200px" className="rounded mx-auto img-fluid" />
                                         <h2 className='mt-3'>I am Tushar Saxena</h2>
                                     </div>
                                     <div className='col text-center'>
